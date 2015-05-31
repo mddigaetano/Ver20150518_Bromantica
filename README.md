@@ -1,6 +1,6 @@
 # Ver20150518_Bromantica
 
-<h3>In questa rivisitazione sono state aggiunte diverse come:</h3><br>
+<h3>In questa rivisitazione sono state aggiunte diverse funzioni come:</h3><br>
 <ul>
   <li>Salvataggio in lista dinamica concatenata;
   <li>Ordinamento tramite algoritmo di insertion-sort;
